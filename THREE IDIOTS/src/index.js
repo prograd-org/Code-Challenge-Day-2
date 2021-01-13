@@ -11,14 +11,13 @@
 
 // Write the function to return the midpoint M1 of the line.
 function find_MidPoint_M1(X1,Y1,X2,Y2){
-
-    return M1;
+    return (X1+X2)/2
 }
 
 // Write the function to return the midpoint M2 of the line.
 function find_MidPoint_M2(X1,Y1,X2,Y2){
     
-    return M2;
+    return (Y1+Y2)/2;
 }
 
 
